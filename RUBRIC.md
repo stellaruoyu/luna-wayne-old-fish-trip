@@ -1,6 +1,6 @@
-# Trip Rubric — pick one: A, B, or C
+# Trip Rubric — ✅ CHOSEN: Option B (The Detective Table)
 
-Use this rubric to score every design, photo, video, and guide page in the
+Picked by Stella on 2026-11-25. Use this rubric to score every design, photo, video, and guide page in the
 Luna, Wayne and Old Fish trip project, so designs can be compared fairly.
 Every design scored must also name **one honest weakness**.
 
@@ -68,4 +68,4 @@ A design passes only if you can answer YES to all of these:
 
 ---
 
-**Your turn:** which one — A, B, or C? (Or tell me your own mix.)
+**Chosen:** Option B — The Detective Table, picked by Stella on 2026-11-25.
