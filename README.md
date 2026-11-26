@@ -1,103 +1,123 @@
-# Luna, Wayne and Old Fish — Virtual Trip V2
+# Luna, Wayne and Old Fish — Virtual Trip V3
 ## Utah Mighty 5 + Monument Valley + Horseshoe Bend
 ## Dec 20–24, last year (Saturday Dec 20 – Wednesday Dec 24, 2025)
 
-**What this is:** Version 2 of the virtual trip. V1 was the first version, made
-Nov 25, 2025. V2 adds every change Stella asked for since V1, and removes
-what V1 got wrong. The trip plan, spots, costs, eats and stays are the same
-as V1 — only the photos, video, voices and rubric rules changed. See
-"What changed from V1 to V2" below for the full list.
+**What this is:** Version 3 of the virtual trip — "The Great Christmas Road
+Trip", the animated storybook version. V2 was the correct version. V3
+makes it feel like a real adventure, not just five postcards. The trip
+plan, spots, costs, eats and stays are the same as V2 — only the photos,
+story, voices and rubric score changed. See "What changed from V2 to V3"
+below for the full list. V1 and V2 guides stay in the repo as
+`luna-wayne-old-fish-trip-V1.md` and `luna-wayne-old-fish-trip-V2.md`.
 
 **What this is:** A virtual trip. Luna, Wayne and Old Fish travel the same 5-day plan Stella shared for Christmas, but last year. They have already finished. This guide is what they did, what it cost, where they ate, where they stayed and why — plus a photo, a vlog line and a journal for each day.
 
-## What changed from V1 to V2 — every change, nothing removed silently
+## What changed from V2 to V3 — every change, nothing removed silently
 
-1. **Old Fish is no longer missing.** V1 had no Old Fish at all. V2 has him
-   in every panel and in the video: a small round chubby cute robot fish,
-   soft pastel silver-blue metal, fish tail fin, big round shiny eye, tiny
-   happy smile, one tiny brass gear on his tail, in a round glass fish bowl
-   full of clear water, with bubbles. His character sheet was drawn alone
-   first, then put into the strip, because the generator kept turning him
-   into a mini Wayne cat in the bowl.
-2. **Old Fish is cute now, not ugly.** Stella graded the first draft "too
-   ugly". V2 uses the cute version from the character sheet.
-3. **Luna and Wayne are in the same style now.** V1 had Luna soft chibi
-   and Wayne more realistic. V2 draws both in the same soft chibi
-   storybook watercolor style.
-4. **Wayne's eye is bright golden yellow in every panel.** V1 had it
-   brown in places. V2 is yellow, as in the Nov 21/22 comics.
-5. **Wayne's eyepatch is on the left side of the picture in every panel,
-   including Day 5.** V1's Day 5 was a back view, so no eyepatch could be
-   seen. V2 Day 5 has Luna and Wayne BOTH facing the camera at Horseshoe
-   Bend, Wayne's eyepatch clearly visible on the left, his open eye bright
-   golden yellow on the right. A back view does not count any more — this
-   is now rule R1 in the rubric.
-6. **Voices, and clean voices.** V1 had no voices. V2 has a narrator,
-   Luna, Wayne and Old Fish speaking, day by day, 64 seconds in total.
-   Old Fish's first voice (Lumi) sounded weird and glitchy, so V2 changed
-   it to Caitlin, slower and clearer, and tested his lines alone first.
-   This is now rule R6 in the rubric: voices must be clean.
-7. **Costs are now in the video, not only in the guide.** The narrator
-   says the costs at the end, all as ESTIMATES: about $1,450–$1,900 total,
-   $80 park pass, $8 a person for Monument Valley, $10 a car for
-   Horseshoe Bend.
-8. **Rubric chosen and changed.** V1 used a self-made /25 rubric. V2 uses
-   Stella's chosen rubric, Option B: The Detective Table, in `RUBRIC.md`,
-   with rules R1–R7. New in V2: R6 voices must be clean, R7 always have
-   a rubric and change the work until it passes it. Standing rule, in
-   Stella's words: "always have to be a rubric and have to change it".
-9. **Agent doc added.** V2 adds `AGENTS.md`: assume Stella is a teenager
-   with no computer science background, plain words, interview before
-   building when anything is unclear, rubric for everything especially
-   design, one honest weakness per design.
-10. **Removed from V1:** the Luna-and-Wayne-only strip, the 10-second
-    vlog montage with no voices, the back-view Day 5, the brown-eyed
-    Wayne, the ugly Old Fish draft, and the AI video that flipped Wayne's
-    eyepatch and drifted the captions. Those files stay in GitHub history,
-    but they are NOT V2.
+1. **Title and story:** V3 is called "LUNA, WAYNE AND OLD FISH — The Great
+   Christmas Road Trip". Each day has its own mood and colour: Day 1 warm
+   desert orange, Day 2 golden sunrise, Day 3 white winter snow, Day 4
+   snowy red hoodoos, Day 5 warm Christmas Eve sunset.
+2. **Luna has a different face every day.** V2 Luna had almost the same
+   face on Days 1–4. V3 Luna is excited on Day 1, amazed on Day 2,
+   laughing on Day 3, full of wonder on Day 4, happy and warm on Day 5.
+3. **They talk to each other now.** V2 they mostly posed. V3 has little
+   interactions in the new script: Luna points and shouts "SNOW!",
+   Wayne answers friendly, Old Fish says "Temperature approaching
+   fish-stick conditions" and Luna says "OLD FISH, NO!".
+4. **Wayne is friendly, NOT grumpy.** Stella disagreed with an outside
+   review that called Wayne a grumpy navigator. V3 Wayne smiles, holds
+   the map, looks after Old Fish's bowl, and says "I did not drop the
+   bowl, not even once." This is now rule R8 in the rubric.
+5. **Old Fish is the little scientist.** V3 Old Fish loves numbers: he
+   counts the arch ("Bigger than one hundred fish bowls!"), counts the
+   hoodoos, and calculates the trip costs at the end — about $1,450–
+   $1,900 total, ESTIMATE, $80 park pass, $8 a person for Monument
+   Valley, $10 a car for Horseshoe Bend, 100% joy.
+6. **Christmas feeling.** V3 Luna and Wayne wear warm red Christmas
+   scarves. Day 3, 4 and 5 have falling snow. Day 5 has a small wrapped
+   Christmas gift and warm drinks in mugs, and a group photo at
+   Horseshoe Bend — a memorable ending, not just another stop.
+7. **Bigger scenery.** V3 makes the Mittens, the arches and the hoodoos
+   enormous, with the characters small below them, so the places feel big.
+8. **Old Fish in every panel — fixed by hand.** The first V3 strip left
+   Old Fish out of Day 1 and Day 2, and had Wayne twice in Day 2, and
+   captions in the wrong order. The second V3 strip fixed Wayne and the
+   captions, but still left Old Fish out of Day 1 and Day 2. So his bowl
+   was copied from the Day 5 panel and pasted in by hand, in a circle,
+   on the car seat on Day 1 and on the rock on Day 2. Now he is in every
+   panel. The Day 1 caption is written twice (above and below the panel)
+   — a small flaw, named here honestly.
+9. **Longer video, with the new story.** V3 video is 118 seconds, not
+   64, because the friends talk to each other now. Same voices as V2:
+   Narrator Aria, Luna Paloma, Wayne Miles, Old Fish Caitlin, all clean.
+10. **Rubric 3.0.** V3 is scored against Rubric 3.0 in `RUBRIC.md`:
+    Option B plus the Artist's Scorecard, rules R1–R8. The old Rubric
+    2.0 is kept as `RUBRIC-2.0.md`.
+11. **Removed from V2:** the same-face Luna, the posing-only strip, the
+    silent back-view ending, and the 64-second video with no interactions.
+    Those stay in GitHub history, but they are NOT V3.
 
-**New photo (V2):** `luna-wayne-oldfish-trip-v7-fixed.webp` — connected
-5-panel strip, Luna, Wayne and Old Fish in every panel, Luna normal size,
-Wayne once per panel with eyepatch visible including Day 5, Old Fish in
-his bowl once per panel. Day 5 caption was fixed by hand: it said
-"THE FIX: Zion morning..." and now says "Zion morning, Horseshoe Bend,
-home to Phoenix".
+**New photo (V3):** `luna-wayne-oldfish-trip-v3-fixed.webp` — connected
+5-panel storybook strip with the title at the top, Luna, Wayne and Old
+Fish in every panel, Luna normal size, Wayne once per panel with eyepatch
+visible including Day 5, Old Fish in his bowl once per panel, red
+Christmas scarves, snow on Days 3–5, gift and warm drinks on Day 5.
 
-**New video (V2):** `luna-wayne-oldfish-trip-v7-voiced-costs.mp4` — 64
-seconds, slow pan with gentle sway over the exact V2 strip (no AI redraw,
-so no character can flip), narrator + Luna + Wayne + Old Fish speaking,
-costs spoken at the end. Movement is camera-only: the characters do not
-walk or blink. That is the honest trade-off for keeping them correct.
+**New video (V3):** `luna-wayne-oldfish-trip-v3-voiced.mp4` — 118
+seconds, slow pan with gentle sway over the exact V3 strip (no AI redraw,
+so no character can flip), narrator + Luna + Wayne + Old Fish speaking
+the new V3 script, Old Fish calculating the costs at the end. Movement
+is still camera-only: the characters do not walk, blink, or swim. That
+is still the honest trade-off, and the biggest thing left for the next
+version.
 
-**What is still missing in V2:** nothing from the original assignment is
-missing any more. The video is still a pan, not full cartoon movement —
-that is a known weakness, not a missing piece.
+**What is still missing in V3:** real small animation — Luna blinking
+and moving her ears, Wayne turning his head and moving his tail, Old
+Fish swimming and blowing bubbles, falling snow and moving clouds in
+the video itself. The snow in V3 is drawn in the picture, not moving in
+the video.
 
 **Dates checked:** Dec 20, 2025 was a Saturday, Dec 21 Sunday, Dec 22 Monday, Dec 23 Tuesday, Dec 24 Wednesday. Sunrise about 7:20am, sunset about 5:10pm in December.
 
 ---
 
-## Rubric — V2, Option B: The Detective Table (chosen by Stella)
+## Rubric — V3, Rubric 3.0: Option B + Artist's Scorecard (chosen by Stella)
 
-V1 used a self-made /25 rubric. V2 uses Option B, in `RUBRIC.md`, with
-rules R1–R7. A design must pass every must-have row to win.
+V2 used Option B, rules R1–R7. V3 uses Rubric 3.0 in `RUBRIC.md`, with
+rules R1–R8. A design must pass every must-have row to win, and the
+Artist's Scorecard target is 90% or higher.
 
-**V2 self-score against Option B:**
+**V3 self-score against Option B:**
 - All 5 days in order: ✅
 - Each day has its real spots: ✅
-- Costs labelled real or ESTIMATE: ✅ — in the guide and spoken at the end of the video
+- Costs labelled real or ESTIMATE: ✅ — in the guide, and Old Fish calculates them at the end of the video
 - Wayne has one eyepatch, yellow eye, in EVERY panel including Day 5: ✅
-- Voices are clean, not glitchy or weird: ✅ — Old Fish changed to Caitlin, tested alone first
-- Old Fish is a cute fish in his bowl: ✅
+- Voices are clean, not glitchy or weird: ✅ — same clean voices as V2
+- Old Fish is a cute fish in his bowl: ✅ — in every panel, after the hand fix
 - Luna and Wayne are in the same style: ✅
 - Works on a phone screen: ✅
 - No confusing words: ✅
 - Voices match the characters: ✅
+- Wayne is NOT grumpy (R8): ✅ — friendly, looks after the bowl
 - Video moves: ✅ — gently, pan and sway only
 
-**Honest weakness:** the video moves gently only — the camera moves, the
-characters do not walk, blink, or move. Costs are spoken, not shown as
-text on screen.
+**V3 self-score against the Artist's Scorecard (/90):**
+- Character consistency: 13/15 — eyepatch left and ears down everywhere; Day 1 caption is written twice, and Old Fish's bowl on Days 1–2 was pasted in by hand
+- Character personality: 12/15 — Luna has a different face each day, Wayne is friendly not grumpy, Old Fish counts and calculates; they talk to each other now
+- Visual storytelling: 12/15 — they point, catch snow, hold the bowl, take a group photo; still mostly still pictures, not actions in motion
+- Composition and camera angles: 8/10 — big scenery, different moods per day; still the same tall strip shape
+- Beautiful and distinct scenery: 9/10 — enormous Mittens, arch and hoodoos, Christmas Eve sunset
+- Actual animation: 4/10 — still camera pan only, no blinking, swimming, or falling snow in motion
+- Voice acting and sound design: 8/10 — clean voices, new talking script, no music or sound effects
+- Emotional connection: 8/10 — group photo ending, Christmas gift and warm drinks
+- Originality and creativity: 4/5
+- **Total: 78/90 (87%)** — up from 57/90 (63%) in V2, still under the 90% target, because of animation
+
+**Honest weakness:** the video still moves gently only — the camera moves, the
+characters do not walk, blink, or swim, and there is no falling snow in
+motion. Costs are spoken, not shown as text on screen. Day 1 caption is
+written twice, and Old Fish's bowl on Days 1–2 was pasted in by hand.
 
 ---
 
