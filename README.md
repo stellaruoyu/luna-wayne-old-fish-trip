@@ -1,28 +1,103 @@
-# Luna, Wayne and Old Fish — Virtual Trip V1
+# Luna, Wayne and Old Fish — Virtual Trip V2
 ## Utah Mighty 5 + Monument Valley + Horseshoe Bend
 ## Dec 20–24, last year (Saturday Dec 20 – Wednesday Dec 24, 2025)
 
+**What this is:** Version 2 of the virtual trip. V1 was the first version, made
+Nov 25, 2025. V2 adds every change Stella asked for since V1, and removes
+what V1 got wrong. The trip plan, spots, costs, eats and stays are the same
+as V1 — only the photos, video, voices and rubric rules changed. See
+"What changed from V1 to V2" below for the full list.
+
 **What this is:** A virtual trip. Luna, Wayne and Old Fish travel the same 5-day plan Stella shared for Christmas, but last year. They have already finished. This guide is what they did, what it cost, where they ate, where they stayed and why — plus a photo, a vlog line and a journal for each day.
 
-**What is reused:** The connected 5-panel comic we already made — `media-generation-luna-wayne-christmas-trip-conn-0-0113413a-4c3d-4452-b24f-136bbfc14ac1.webp` — Day 1 Monument Valley, Day 2 Mesa Arch + Delicate Arch, Day 3 Capitol Reef + Scenic Byway 12, Day 4 Bryce, Day 5 Zion + Horseshoe Bend. Luna is normal size in every panel, Wayne is once per panel in the background.
+## What changed from V1 to V2 — every change, nothing removed silently
 
-**What is still missing in V1:** Old Fish. No picture of Old Fish arrived — the 9 reference images in Stella's message did not come through, and Old Fish is not in memory. So the photos and video in V1 still show Luna and Wayne only. Do NOT invent Old Fish's look. When his picture arrives, add him to every day photo and to the vlog.
+1. **Old Fish is no longer missing.** V1 had no Old Fish at all. V2 has him
+   in every panel and in the video: a small round chubby cute robot fish,
+   soft pastel silver-blue metal, fish tail fin, big round shiny eye, tiny
+   happy smile, one tiny brass gear on his tail, in a round glass fish bowl
+   full of clear water, with bubbles. His character sheet was drawn alone
+   first, then put into the strip, because the generator kept turning him
+   into a mini Wayne cat in the bowl.
+2. **Old Fish is cute now, not ugly.** Stella graded the first draft "too
+   ugly". V2 uses the cute version from the character sheet.
+3. **Luna and Wayne are in the same style now.** V1 had Luna soft chibi
+   and Wayne more realistic. V2 draws both in the same soft chibi
+   storybook watercolor style.
+4. **Wayne's eye is bright golden yellow in every panel.** V1 had it
+   brown in places. V2 is yellow, as in the Nov 21/22 comics.
+5. **Wayne's eyepatch is on the left side of the picture in every panel,
+   including Day 5.** V1's Day 5 was a back view, so no eyepatch could be
+   seen. V2 Day 5 has Luna and Wayne BOTH facing the camera at Horseshoe
+   Bend, Wayne's eyepatch clearly visible on the left, his open eye bright
+   golden yellow on the right. A back view does not count any more — this
+   is now rule R1 in the rubric.
+6. **Voices, and clean voices.** V1 had no voices. V2 has a narrator,
+   Luna, Wayne and Old Fish speaking, day by day, 64 seconds in total.
+   Old Fish's first voice (Lumi) sounded weird and glitchy, so V2 changed
+   it to Caitlin, slower and clearer, and tested his lines alone first.
+   This is now rule R6 in the rubric: voices must be clean.
+7. **Costs are now in the video, not only in the guide.** The narrator
+   says the costs at the end, all as ESTIMATES: about $1,450–$1,900 total,
+   $80 park pass, $8 a person for Monument Valley, $10 a car for
+   Horseshoe Bend.
+8. **Rubric chosen and changed.** V1 used a self-made /25 rubric. V2 uses
+   Stella's chosen rubric, Option B: The Detective Table, in `RUBRIC.md`,
+   with rules R1–R7. New in V2: R6 voices must be clean, R7 always have
+   a rubric and change the work until it passes it. Standing rule, in
+   Stella's words: "always have to be a rubric and have to change it".
+9. **Agent doc added.** V2 adds `AGENTS.md`: assume Stella is a teenager
+   with no computer science background, plain words, interview before
+   building when anything is unclear, rubric for everything especially
+   design, one honest weakness per design.
+10. **Removed from V1:** the Luna-and-Wayne-only strip, the 10-second
+    vlog montage with no voices, the back-view Day 5, the brown-eyed
+    Wayne, the ugly Old Fish draft, and the AI video that flipped Wayne's
+    eyepatch and drifted the captions. Those files stay in GitHub history,
+    but they are NOT V2.
+
+**New photo (V2):** `luna-wayne-oldfish-trip-v7-fixed.webp` — connected
+5-panel strip, Luna, Wayne and Old Fish in every panel, Luna normal size,
+Wayne once per panel with eyepatch visible including Day 5, Old Fish in
+his bowl once per panel. Day 5 caption was fixed by hand: it said
+"THE FIX: Zion morning..." and now says "Zion morning, Horseshoe Bend,
+home to Phoenix".
+
+**New video (V2):** `luna-wayne-oldfish-trip-v7-voiced-costs.mp4` — 64
+seconds, slow pan with gentle sway over the exact V2 strip (no AI redraw,
+so no character can flip), narrator + Luna + Wayne + Old Fish speaking,
+costs spoken at the end. Movement is camera-only: the characters do not
+walk or blink. That is the honest trade-off for keeping them correct.
+
+**What is still missing in V2:** nothing from the original assignment is
+missing any more. The video is still a pan, not full cartoon movement —
+that is a known weakness, not a missing piece.
 
 **Dates checked:** Dec 20, 2025 was a Saturday, Dec 21 Sunday, Dec 22 Monday, Dec 23 Tuesday, Dec 24 Wednesday. Sunrise about 7:20am, sunset about 5:10pm in December.
 
 ---
 
-## My rubric — V1, total /25, 5 each
+## Rubric — V2, Option B: The Detective Table (chosen by Stella)
 
-I named this rubric myself for this assignment.
+V1 used a self-made /25 rubric. V2 uses Option B, in `RUBRIC.md`, with
+rules R1–R7. A design must pass every must-have row to win.
 
-1. **Plan is real and checkable — /5:** spots, times, costs and stays match the plan, and anything not checked says so.
-2. **Photos match the day — /5:** right place, right characters, Luna normal size, Wayne once, in the background.
-3. **Vlog tells the day — /5:** what happened, in order, in their voices.
-4. **Journal sounds like them — /5:** Luna, Wayne and Old Fish, not generic travel words.
-5. **Characters look right — /5:** Luna in just her fur and hematite pendant, Wayne with ONE eyepatch and a yellow open eye, Old Fish as in his reference.
+**V2 self-score against Option B:**
+- All 5 days in order: ✅
+- Each day has its real spots: ✅
+- Costs labelled real or ESTIMATE: ✅ — in the guide and spoken at the end of the video
+- Wayne has one eyepatch, yellow eye, in EVERY panel including Day 5: ✅
+- Voices are clean, not glitchy or weird: ✅ — Old Fish changed to Caitlin, tested alone first
+- Old Fish is a cute fish in his bowl: ✅
+- Luna and Wayne are in the same style: ✅
+- Works on a phone screen: ✅
+- No confusing words: ✅
+- Voices match the characters: ✅
+- Video moves: ✅ — gently, pan and sway only
 
-**V1 self-score: 18/25 — honest weakness:** Characters is only 2/5 in V1, because Old Fish is missing from every photo and the video is not made yet. Plan is 4/5, Photos 4/5, Vlog 4/5, Journal 4/5. The Day 3 panel in the connected strip also still has a tiny white shape under Wayne on the fence that might be a second tiny Wayne.
+**Honest weakness:** the video moves gently only — the camera moves, the
+characters do not walk, blink, or move. Costs are spoken, not shown as
+text on screen.
 
 ---
 
