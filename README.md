@@ -364,3 +364,24 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
   with a short fade-in on Day 1, so the title is the same voice at the
   same loudness as everything else. Locked cast, R9: Narrator Aria,
   Luna Paloma, Wayne Miles, Old Fish Caitlin.
+
+---
+
+## V3 fixes, Nov 25 night (Old Fish design, done day by day)
+
+- **Old Fish design changed across panels, so each day was fixed
+  separately.** Day 1's fish already matched the character sheet. Days
+  2, 3, 4 and 5 were each edited on their own, with the character sheet
+  as the reference, so the fish is now the same in every panel: small
+  round chubby silver-blue robot fish, big round shiny eye, tiny happy
+  smile, one tiny brass gear on his tail only, in his round glass bowl.
+  File: `luna-wayne-oldfish-trip-v3-fixed4.webp`.
+- **The moving vlog was rebuilt for Days 2–5** with the corrected fish,
+  same locked voices. The first new Day 2 clip zoomed in too far and
+  cut the characters off, so it was remade with the camera completely
+  still. Final video: `luna-wayne-oldfish-trip-v3-moving-voiced2.mp4`,
+  111 seconds. Clips: `v3-day2-moving-fixed2.mp4`,
+  `v3-day3-moving-fixed.mp4`, `v3-day4-moving-fixed.mp4`,
+  `v3-day5-moving-fixed.mp4`.
+- Still a small known flaw: the "FRUITA SCHOOLHOUSE" sign on Day 3 has
+  jumbled letters.
