@@ -335,3 +335,32 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
   `luna-wayne-oldfish-trip-v3-moving.mp4` (10 seconds, silent).
 - **Main V3 video, fixed:** `luna-wayne-oldfish-trip-v3-voiced-fixed.mp4`
   — 117 seconds, fixed strip, locked voices, breathing zoom.
+
+---
+
+## V3 fixes, Nov 25 late evening (after Stella's screenshot)
+
+- **Old Fish bowl, Days 1–2, fixed properly this time.** The earlier
+  fix pasted a round disc cut from the Day 5 panel, and the disc carried
+  Day 5's background with it, erasing the background underneath on Days
+  1 and 2 — Stella circled both spots in a screenshot. The bowl is now
+  drawn into the picture natively (two image edits, then a whole-panel
+  splice for Day 2), so no background is removed anywhere. The
+  duplicated Day 1 caption is also gone. File:
+  `luna-wayne-oldfish-trip-v3-fixed3.webp`. Lesson: never paste a
+  character as a disc — it carries its old background and erases the new
+  one. Draw it in, or splice a whole panel.
+- **Characters really move now.** The main video is no longer a camera
+  pan over a still picture. Each day got its own 10-second moving clip
+  from its panel: Luna blinks, Wayne's tail swishes and he turns his
+  head, Old Fish swims and blows bubbles, snow falls. Wayne's eyepatch
+  stays on the left in every clip (checked frame by frame). The five
+  clips are looped to fit each day's voices and joined into one
+  111-second vlog: `luna-wayne-oldfish-trip-v3-moving-voiced.mp4`.
+  Clips: `v3-day1-moving.mp4` to `v3-day5-moving.mp4`.
+- **Title voice fixed.** The title line is the Narrator's first line,
+  same Aria voice as the rest, but it came in louder at the start.
+  Voices are now recorded per day and loudness-matched (loudnorm),
+  with a short fade-in on Day 1, so the title is the same voice at the
+  same loudness as everything else. Locked cast, R9: Narrator Aria,
+  Luna Paloma, Wayne Miles, Old Fish Caitlin.
