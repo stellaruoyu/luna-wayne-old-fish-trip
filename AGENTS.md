@@ -83,6 +83,13 @@ character sheets, not against a design sheet alone.
   captions. A slow pan over the exact approved picture keeps every
   character correct. Use the pan version for accuracy; use an AI video
   only as a draft, and check it frame by frame before calling it fixed.
+  Per-day moving clips (one clip per panel, checked frame by frame) are
+  the way to get real character movement without losing the eyepatch.
+- **Never paste a character as a disc or a cut-out.** A pasted bowl or
+  character carries its old background with it and erases the background
+  underneath — Stella circled both spots on Days 1 and 2. Draw a missing
+  character into the picture natively, or splice a whole panel from
+  another version. A pasted disc is not a fix.
 
 ## 5. How to talk
 - State your key assumption out loud before acting ("I'm assuming you want
