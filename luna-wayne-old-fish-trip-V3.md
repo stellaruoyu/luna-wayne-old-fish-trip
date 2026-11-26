@@ -427,3 +427,24 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
 - File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, 125 seconds,
   21 turns. Day clips: `vlog/v3-day1-moving.mp4` to
   `vlog/v3-day5-moving.mp4` (still-camera versions).
+
+---
+
+## Day 3 sign fix (Nov 26 morning)
+
+- **The schoolhouse sign now reads FRUITA SCHOOLHOUSE.** In the
+  synced vlog it used to read "PETE'S SCHOOLHOUSE" (the video maker
+  had reinterpreted the jumbled sign letters). The Day 3 panel was
+  repainted so the sign clearly reads FRUITA SCHOOLHOUSE in two lines,
+  the Day 3 clip was regenerated from that panel with a still camera,
+  and the five Day 3 turns were rebuilt with the same locked voices
+  and the same speaker framing. The other 16 turns were not touched.
+- Verified in the finished video: at 50 seconds (Narrator turn, full
+  frame) and at 55 seconds (Luna's turn), the sign reads FRUITA
+  SCHOOLHOUSE.
+- File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, still 125
+  seconds, 21 turns. Day 3 clip:
+  `vlog/v3-day3-moving.mp4` (still-camera version with the corrected
+  sign).
+- Not fixed, by choice: Fish's bowl is half cut off at the edge in one
+  Day 3 shot — Stella did not ask to fix that, so it was left alone.
