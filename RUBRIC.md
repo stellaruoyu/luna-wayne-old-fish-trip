@@ -10,7 +10,7 @@ Use this rubric to score every design, photo, video, and guide page in the
 Luna, Wayne and Old Fish trip project, so designs can be compared fairly.
 Every design scored must also name **one honest weakness**.
 
-The extra rules below (R1–R8) are pass/fail for every design, whichever
+The extra rules below (R1–R9) are pass/fail for every design, whichever
 option you pick.
 
 ## Extra rules — must pass every time
@@ -46,6 +46,13 @@ option you pick.
   costs. Give each of them different feelings on different days — Luna
   should not have the same face on Days 1–4 — and give them little
   interactions, not just posing for pictures.
+- **R9. One fixed voice per character, never changes:** each character
+  has ONE voice, the same in every line, every day, and every version.
+  The voice must not change in the middle of a video, and it must not
+  change from one version to the next, unless Stella says to change it.
+  Locked cast: Narrator = Aria, Luna = Paloma, Wayne = Miles, Old Fish
+  = Caitlin. Same speed, same cast, every time. If a voice sounds
+  different on one line, re-record that line with the locked voice.
 
 ---
 
@@ -74,6 +81,7 @@ Check each design against every row. ✅ = yes, ❌ = no.
 | Costs are labelled as real or ESTIMATE | Yes | | |
 | Wayne has one eyepatch, yellow eye, in EVERY panel including Day 5 (R1, R2) | Yes | | |
 | Voices are clean — clear, not glitchy or weird (R6) | Yes | | |
+| One fixed voice per character, never changes (R9) | Yes | | |
 | Old Fish is a cute fish in his bowl (R3) | Yes | | |
 | Luna and Wayne are in the same style (R4) | Yes | | |
 | Works on a phone screen | Yes | | |
