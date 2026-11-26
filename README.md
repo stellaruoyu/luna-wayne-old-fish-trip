@@ -385,3 +385,20 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
   `v3-day5-moving-fixed.mp4`.
 - Still a small known flaw: the "FRUITA SCHOOLHOUSE" sign on Day 3 has
   jumbled letters.
+
+---
+
+## Board 2.0 (Nov 25 night)
+
+- The current board — the 5-panel strip with the Christmas scarves,
+  the snow, the gift and the warm drinks — is saved in GitHub as
+  version 2.0: `images/luna-wayne-old-fish-trip-board-2.0.webp`.
+- Board 2.0 is the fixed4 strip: Old Fish drawn in natively on Days 1
+  and 2 (no pasted disc, no background removed), the same Old Fish
+  design in every panel (fixed separately for Days 2, 3, 4 and 5 from
+  the character sheet), Wayne's eyepatch on the left and his eye bright
+  yellow in every panel, Luna's ears down, captions in order with the
+  Day 1 caption only once.
+- The matching moving vlog for Board 2.0 is
+  `vlog/luna-wayne-oldfish-trip-v3-moving-voiced2.mp4` (111 seconds,
+  five per-day moving clips, locked voices).
