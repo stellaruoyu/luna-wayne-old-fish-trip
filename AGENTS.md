@@ -59,6 +59,9 @@ character sheets, not against a design sheet alone.
   in **every** panel, including Day 5. A back view on Day 5 does not count —
   Wayne must face the camera on Day 5 so his eyepatch can be seen.
   His open eye is **BRIGHT GOLDEN YELLOW** — not brown, not dark, not green.
+  **Wayne is NOT grumpy.** He is friendly and cares about his friends —
+  in the vlog he worries "Do not drop my bowl" about Old Fish. Never
+  write him as a grumpy or sarcastic navigator, even if a review suggests it.
 - **Voices:** every voice in a video must be clean — clear, easy to
   understand, not glitchy or weird. Test each voice alone on its own lines
   before it goes into the video. Old Fish's first voice (Lumi) sounded
