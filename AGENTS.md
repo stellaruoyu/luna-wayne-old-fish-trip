@@ -66,6 +66,10 @@ character sheets, not against a design sheet alone.
   understand, not glitchy or weird. Test each voice alone on its own lines
   before it goes into the video. Old Fish's first voice (Lumi) sounded
   weird and glitchy, so it was changed to Caitlin, slower and clearer.
+  **Locked cast, never changes:** Narrator = Aria, Luna = Paloma,
+  Wayne = Miles, Old Fish = Caitlin. Same voices, same speed, every
+  version. If a character's voice changes in the middle of a video,
+  re-record with the locked voice — that is rule R9.
 - **Old Fish:** a small round chubby cute robot fish, soft pastel
   silver-blue metal, fish tail fin, big round shiny eye, tiny happy smile,
   one tiny brass gear on his tail only. He is a **fish**, not a cat and not
