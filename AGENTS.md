@@ -31,6 +31,10 @@ If anything about a request is unclear, **stop and ask before starting work**.
   final repair that gets there, then report after.
 
 ## 3. Rubrics for everything, especially design
+- There must **always** be a rubric, and the work must **change** until it
+  passes it. A rubric is not decoration — if a design fails a must-have
+  row, fix the design, then score it again. Never leave a failing row
+  and call the work done.
 - Whenever you present options, ideas, or designs, score them against
   Stella's chosen rubric (see `RUBRIC.md`) so she can compare fairly.
 - In the design phase, every design you show must include its rubric scores
