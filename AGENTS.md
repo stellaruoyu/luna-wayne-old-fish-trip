@@ -55,8 +55,14 @@ character sheets, not against a design sheet alone.
   same outline and shading.
 - **Wayne:** chubby white cat, gold swirl on his back, in the background,
   small, exactly once per panel. **ONE brown eyepatch only, never two.**
-  The eyepatch is on the **left side of the picture** when Wayne faces us.
+  The eyepatch is on the **left side of the picture** when Wayne faces us,
+  in **every** panel, including Day 5. A back view on Day 5 does not count —
+  Wayne must face the camera on Day 5 so his eyepatch can be seen.
   His open eye is **BRIGHT GOLDEN YELLOW** — not brown, not dark, not green.
+- **Voices:** every voice in a video must be clean — clear, easy to
+  understand, not glitchy or weird. Test each voice alone on its own lines
+  before it goes into the video. Old Fish's first voice (Lumi) sounded
+  weird and glitchy, so it was changed to Caitlin, slower and clearer.
 - **Old Fish:** a small round chubby cute robot fish, soft pastel
   silver-blue metal, fish tail fin, big round shiny eye, tiny happy smile,
   one tiny brass gear on his tail only. He is a **fish**, not a cat and not
