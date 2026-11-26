@@ -309,3 +309,29 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
 **Updated self-score: 20/25.** Plan 4/5, Photos 4/5, Vlog 4/5, Journal 4/5, Characters 4/5. The one point lost in Photos is the wrong panel captions. The one point lost in Characters is that Old Fish is still a draft, not a finished design.
 
 **GitHub:** V1 is logged in public repo `stellaruoyu/luna-wayne-old-fish-trip`, README is this guide.
+
+---
+
+## V3 fixes, Nov 25 evening (after the first V3 delivery)
+
+- **Old Fish bowl, Days 1–2, fixed again.** The first hand fix used a bowl
+  that was too big and covered Wayne and the background. The bowl is now
+  smaller (110 px), on the car seat on Day 1 and in the bottom-right
+  corner on Day 2, not covering Wayne or the background. File:
+  `luna-wayne-oldfish-trip-v3-fixed2.webp`.
+- **Voices changing — new rule R9.** Stella heard each character's voice
+  change in the V3 video. Rubric now has R9: one fixed voice per
+  character, never changes. Locked cast: Narrator Aria, Luna Paloma,
+  Wayne Miles, Old Fish Caitlin. Same speed, same cast, every time.
+  The V3 voices were re-recorded at speed 100 (the same as V2, which
+  sounded clean) with that locked cast: `vlog-voices-v3-fixed.mp3`.
+- **Characters moving.** The main V3 video now also zooms in and out
+  while it moves, not just sliding down. And a 10-second AI moving clip
+  was made from the fixed strip: Luna blinks, Wayne's tail swishes and
+  he turns his head, Old Fish swims and blows bubbles, snow falls.
+  Wayne's eyepatch stays on the left in that clip. Its captions are
+  scrambled and it invents an extra schoolhouse scene, so it is a
+  movement test, not the main vlog. File:
+  `luna-wayne-oldfish-trip-v3-moving.mp4` (10 seconds, silent).
+- **Main V3 video, fixed:** `luna-wayne-oldfish-trip-v3-voiced-fixed.mp4`
+  — 117 seconds, fixed strip, locked voices, breathing zoom.
