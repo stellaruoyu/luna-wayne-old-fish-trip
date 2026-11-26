@@ -402,3 +402,28 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
 - The matching moving vlog for Board 2.0 is
   `vlog/luna-wayne-oldfish-trip-v3-moving-voiced2.mp4` (111 seconds,
   five per-day moving clips, locked voices).
+
+---
+
+## V3 synced vlog (Nov 25 night, the real fix for the video)
+
+- **What was wrong:** the 111-second vlog looped one 10-second clip per
+  day, so the movements repeated; both Luna and Wayne moved their
+  mouths at the same time, so it looked like both of them said every
+  line; and Old Fish just sat in his bowl like luggage.
+- **The fix:** the video is now cut line by line, 21 turns. Each turn
+  was recorded on its own with the locked cast (Narrator Aria, Luna
+  Paloma, Wayne Miles, Old Fish Caitlin), and each turn's picture
+  frames only the person speaking — Luna on the left, Wayne on the
+  right, a full view for the Narrator, and a close-up of Old Fish in
+  his bowl when he speaks, including the 20-second final tally, which
+  is one long Fish close-up. No looping: each turn uses a different
+  slice of its day's clip.
+- **Two catches found while checking:** the first try used clips whose
+  camera panned and zoomed, so a fixed crop showed the wrong person
+  (Wayne's turn showed the fish bowl). All five day clips were remade
+  with the camera completely still — only the characters move — and
+  each of the 21 segments was checked on its own before joining them.
+- File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, 125 seconds,
+  21 turns. Day clips: `vlog/v3-day1-moving.mp4` to
+  `vlog/v3-day5-moving.mp4` (still-camera versions).
