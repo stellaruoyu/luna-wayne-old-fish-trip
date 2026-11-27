@@ -23,7 +23,7 @@ Score: 84/100 — review-and-correct. Luna fur and Old Fish colour held, no leg 
 - `characters/wayne-character-card.jpeg`
 - `characters/old-fish-character-card.webp` — Old Fish must be copied exactly from the Close-up view: large round pale silver-grey robot fish, two big black jelly eyes, tiny smile, one brass gear at the base of his tail only.
 
-## Still prompt — the exact steps that produced the approved still
+## Picture prompt — the exact steps that produced the approved picture
 
 The approved still was made in three edits, in order. Keep the car, desert, Wayne and composition exactly the same in each edit.
 

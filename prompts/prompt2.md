@@ -27,7 +27,7 @@ Test rule: 5 seconds only, one day at a time, only ONE clip per test, then revie
 - `characters/wayne-character-card.jpeg`
 - `characters/old-fish-character-card.webp`
 
-## Still prompt — Prompt 2 (fresh generation, not an edit of the fat still)
+## Picture prompt — Prompt 2 (fresh generation, not an edit of the fat picture)
 
 > Generate a soft watercolor storybook scene, thin brown line art, muted pastel, full frame, no text.
 >
