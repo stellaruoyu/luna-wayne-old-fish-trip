@@ -1,4 +1,4 @@
-# Trip Rubric — ✅ CHOSEN: Option B (The Detective Table) + Artist's Scorecard — Rubric 3.0
+# Trip Rubric — ✅ CHOSEN: Option B (The Detective Table) + Artist's Scorecard — Rubric 4.0
 
 Picked by Stella on 2026-11-25. Updated to Version 2 on 2026-11-25, at Stella's
 words: "always have to be a rubric and have to change it" — the voice needs
@@ -6,6 +6,10 @@ to be clean, and Wayne has to have an eyepatch.
 Updated to Rubric 3.0 on 2026-11-25 evening, from an outside review Stella
 shared. She agreed with the review's other points, but NOT with Wayne
 being a grumpy person — Wayne is NOT grumpy, see R8.
+Updated to Rubric 4.0 on 2026-11-26 evening, at Stella's words: no repeating
+the same scene multiple times, Old Fish can't be luggage, and when one
+person speaks only that person's mouth moves. Rubric 3.0 is kept as
+RUBRIC-3.0.md, and Rubric 2.0 as RUBRIC-2.0.md.
 Use this rubric to score every design, photo, video, and guide page in the
 Luna, Wayne and Old Fish trip project, so designs can be compared fairly.
 Every design scored must also name **one honest weakness**.
@@ -110,11 +114,11 @@ Check each design against every row. ✅ = yes, ❌ = no.
 
 *Rule: a design must pass every "Yes" row to win. Ties broken by nice-to-haves.*
 
-## Rubric 3.0 — The Artist's Scorecard 🎨 (new, from the outside review)
+## Rubric 4.0 — The Artist's Scorecard 🎨 (new, from the outside review)
 
 Rubric 2.0 checks whether things are correct. This scorecard checks
 whether the artwork is interesting and feels like a real adventure, not
-just five postcards. Keep all R1–R8 and Option B — this is added on top,
+just five postcards. Keep all R1–R12 and Option B — this is added on top,
 not instead of them.
 
 | Art check | Max | V2 score |
