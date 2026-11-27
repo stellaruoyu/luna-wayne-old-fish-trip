@@ -14,7 +14,7 @@ Use this rubric to score every design, photo, video, and guide page in the
 Luna, Wayne and Old Fish trip project, so designs can be compared fairly.
 Every design scored must also name **one honest weakness**.
 
-The extra rules below (R1–R12) are pass/fail for every design, whichever
+The extra rules below (R1–R15) are pass/fail for every design, whichever
 option you pick.
 
 ## Extra rules — must pass every time
@@ -73,6 +73,25 @@ option you pick.
   Wayne's mouth moves; when Old Fish speaks, only Old Fish moves. The
   others do not move their mouths. The picture must frame the speaker
   so the others' mouths are not moving on screen.
+- **R13. No zooming in on the same scene for different people:** never
+  crop-zoom into the same panel to frame a different speaker. Each turn
+  shows the full scene. A zoomed-in crop of the same picture is not a
+  new scene — it is the same scene, closer up. If the scene is the
+  same, show it whole.
+- **R14. The person on screen must be the person speaking:** never show
+  a mouth moving while a different person's voice is speaking. The
+  moving mouth on screen and the voice you hear must belong to the same
+  character. If a clip shows Luna's mouth moving while Wayne's voice
+  speaks, or anyone's mouth moving while Old Fish's voice speaks, the
+  video fails — even if the voices and the pictures are each correct
+  on their own.
+- **R15. Old Fish must be heard AND seen speaking, every day must have
+  talking:** Old Fish's lines must actually be in the video, with his
+  mouth moving when he says them — not just written in the script. His
+  "fish-stick conditions" line, his "one hundred fish bowls" line, and
+  his final tally must all be heard in the video. And every day must
+  have talking in it — no silent days. A day with only moving pictures
+  and no voices is not a finished day.
 
 ---
 
@@ -105,6 +124,9 @@ Check each design against every row. ✅ = yes, ❌ = no.
 | No scene repeats multiple times — no looping (R10) | Partial | The 20-second Fish turn now uses two different clips, and no turn repeats the turn before it. But the same day's clips do come back later in the day (turn 1 and turn 3 share clip A, different slice). | |
 | Old Fish is never luggage — he speaks, acts, gets close-ups (R11) | Yes | Fish speaks in 5 turns, gets a close-up every time, and the 20-second final tally is his. He still does not react during the others' lines. | |
 | Only the speaker's mouth moves (R12) | Partial | The speaker is framed in Luna/Wayne/Fish turns, so the other's mouth is off screen. But the AI clips move both mouths at once and there is no true lip-sync, and in the Narrator full-frame turns both mouths move. | |
+| No zooming in on the same scene for different people (R13) | Yes | All 21 turns are now full frame. The zoom crops are gone completely. | |
+| The person on screen is the person speaking (R14) | Partial | Fish's turns use clips made so only Fish's mouth moves — checked in the Day 3 Fish clip: Luna's and Wayne's mouths stay closed across three frames. But in Luna/Wayne/Narrator turns the full-frame clips still move both mouths, because the video maker moves all mouths. The zoomed wrong-mouth is gone. | |
+| Old Fish is heard AND seen speaking; every day has talking (R15) | Partial | Heard: yes — measured in the new video, "100 fish bowls" and "fish-stick conditions" are there at full volume, and every day has talking. Seen: Fish's new clips have him talking with the others' mouths closed, but a still picture cannot prove a mouth moves — Stella to check by watching. The day clips on GitHub are silent moving pictures only; the talking lives in the synced vlog. | |
 | Old Fish is a cute fish in his bowl (R3) | Yes | | |
 | Luna and Wayne are in the same style (R4) | Yes | | |
 | Works on a phone screen | Yes | | |
