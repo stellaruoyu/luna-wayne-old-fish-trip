@@ -540,3 +540,55 @@ File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, still 125
 seconds, 21 turns, all full frame. Fish clips:
 `vlog/v3-day1-fish-talks.mp4` to `vlog/v3-day5-fish-talks.mp4`
 (Day 5 has two: `-a` and `-b` for the two halves of the tally).
+
+---
+
+## V2 — a visibly different video (Nov 26 evening)
+
+Stella was right: the last video was a new file, but it LOOKED the same
+as the one before, because it used the same day panels. She also caught,
+by watching it, that Fish's mouth never visibly moved (in the Fish
+clips his mouth changed a tiny bit, but he was so small nobody could
+see it), that the same scene repeated turn after turn, and that Wayne
+waved his hands during Luna's "Wow" line on Day 2. Those became
+Rubric 4.0 rules R16 and R17.
+
+What V2 does differently (new file name, so it cannot be mixed up with
+the old one: `vlog/luna-wayne-oldfish-trip-v3-synced-v2.mp4`):
+
+- **Fish is BIG now.** Every Fish turn is a brand-new close-up scene,
+  drawn just for that line: Fish fills the frame, his mouth wide open,
+  the gear on his tail, with the day's place behind him — the arch for
+  "one hundred fish bowls" (Day 2), the schoolhouse with the FRUITA
+  SCHOOLHOUSE sign for "fish-stick conditions" (Day 3), the hoodoos
+  (Day 4), Horseshoe Bend and the gift for the tally (Day 5, two
+  different close-ups, one for each half). You can see him talking.
+- **Luna's "Wow" is a new scene, and Wayne is still.** Luna is big in
+  the foreground looking up at the arch, her mouth opening and closing
+  as she says it. Wayne stands behind her with his hands down at his
+  sides and his mouth closed, not moving at all. Checked frame by
+  frame: his hands never move.
+- **Nothing moves wrongly.** Every other turn is a still picture with
+  its voice — the day panel, held still — so nobody's hands or mouth
+  move during somebody else's line. The old Fish clips that made Fish
+  look small were not used: the video maker pulled the close-ups back
+  into wide shots, so the close-up stills were used instead.
+- Same voices, same 21 turns, same 125 seconds. Audio measured again
+  in V2: "100 fish bowls", "fish-stick conditions", Luna's "Wow", and
+  both halves of the tally are all there.
+
+What is still not perfect, honestly:
+
+- **Most turns are still pictures now.** Only Luna's Wow moves. The
+  rest are stills with voices. That is the trade for no wrong movement.
+  The way to get movement back in every turn is one clip per turn,
+  with only that speaker moving — 21 clips, and only 6 can be made at
+  once — so the next round would animate 6 more turns, starting with
+  whichever turns Stella names.
+- **The day panel still repeats** in the Narrator, Luna, and Wayne
+  turns (3 times per day). Fish's turns and Luna's Wow are new scenes;
+  the rest are not yet.
+
+File: `vlog/luna-wayne-oldfish-trip-v3-synced-v2.mp4`, 125 seconds,
+21 turns. New scenes: `images/v2-scene-fish-d1.webp` to
+`images/v2-scene-fish-d5b.webp`, `vlog/v2-luna-wow-video.mp4`.
