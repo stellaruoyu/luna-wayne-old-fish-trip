@@ -448,3 +448,50 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
   sign).
 - Not fixed, by choice: Fish's bowl is half cut off at the edge in one
   Day 3 shot — Stella did not ask to fix that, so it was left alone.
+
+---
+
+## R10, R11, R12 — added Nov 26 evening, and the video changed to match
+
+Stella added three rules to the rubric (Rubric 3.0, R10–R12):
+
+- **R10. Never repeat the same scene multiple times.** No looping one
+  short clip to fill a long line. Every turn must use different
+  footage from the turn before it.
+- **R11. Old Fish can NEVER be luggage.** He must speak, calculate,
+  react, and get his own close-ups. If he just sits in his bowl while
+  the others do everything, the version fails.
+- **R12. When one person speaks, only that person's mouth moves.**
+  The others do not move their mouths.
+
+What changed in the video for these rules:
+
+- A **second, different clip was made for every day** (clip B), with
+  different movements and a still camera. The 21 turns now alternate
+  A, B, A, B, so no turn repeats the footage of the turn before it.
+- The 20-second Fish tally on Day 5 no longer loops: its first half
+  uses clip A and its second half uses clip B — checked frame by
+  frame, the two halves look different (Fish faces left in the first
+  half, right in the second, with a big bubble).
+- Old Fish speaks in 5 turns, gets a close-up every time he speaks,
+  and the final tally is his 20-second close-up.
+
+Honest score against the new rules:
+
+- **R10 — partial.** No turn repeats the turn before it, and nothing
+  loops. But the same day's clips do come back later in the day (turn
+  1 and turn 3 share clip A, with a different slice). Never reusing a
+  clip at all would need a third clip per day.
+- **R11 — yes.** Fish speaks, calculates, and gets his close-ups. He
+  still does not react during the others' lines — his movement there
+  is just swimming.
+- **R12 — partial.** The speaker is framed in Luna/Wayne/Fish turns,
+  so the other's mouth is off screen. But the AI clips move both
+  mouths at once and there is no true lip-sync, and in the Narrator
+  full-frame turns both mouths move. That is the honest limit of
+  these clips.
+
+File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, still 125
+seconds, 21 turns. Day clips are now two per day:
+`vlog/v3-day1-moving.mp4` to `vlog/v3-day5-moving.mp4` (clip A) and
+`vlog/v3-day1-moving-B.mp4` to `vlog/v3-day5-moving-B.mp4` (clip B).
