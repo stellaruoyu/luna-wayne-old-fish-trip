@@ -10,7 +10,7 @@ Use this rubric to score every design, photo, video, and guide page in the
 Luna, Wayne and Old Fish trip project, so designs can be compared fairly.
 Every design scored must also name **one honest weakness**.
 
-The extra rules below (R1–R9) are pass/fail for every design, whichever
+The extra rules below (R1–R12) are pass/fail for every design, whichever
 option you pick.
 
 ## Extra rules — must pass every time
@@ -53,6 +53,22 @@ option you pick.
   Locked cast: Narrator = Aria, Luna = Paloma, Wayne = Miles, Old Fish
   = Caitlin. Same speed, same cast, every time. If a voice sounds
   different on one line, re-record that line with the locked voice.
+- **R10. Never repeat the same scene multiple times:** the same clip,
+  the same footage, or the same movement must not play over and over.
+  No looping one short clip to fill a long line. Every turn must use
+  different footage from the turn before it. If a line is longer than
+  one clip, use a different clip for the rest of it, never the same
+  clip again.
+- **R11. Old Fish can NEVER be luggage:** Old Fish is not allowed to
+  just sit in his bowl while the others do everything. He must be part
+  of the trip — he speaks, he calculates the costs, he reacts, and he
+  gets his own close-ups. If a version leaves him sitting there doing
+  nothing, it fails, even if everything else is right.
+- **R12. When one person speaks, only that person's mouth moves:**
+  when Luna speaks, only Luna's mouth moves; when Wayne speaks, only
+  Wayne's mouth moves; when Old Fish speaks, only Old Fish moves. The
+  others do not move their mouths. The picture must frame the speaker
+  so the others' mouths are not moving on screen.
 
 ---
 
@@ -82,6 +98,9 @@ Check each design against every row. ✅ = yes, ❌ = no.
 | Wayne has one eyepatch, yellow eye, in EVERY panel including Day 5 (R1, R2) | Yes | | |
 | Voices are clean — clear, not glitchy or weird (R6) | Yes | | |
 | One fixed voice per character, never changes (R9) | Yes | | |
+| No scene repeats multiple times — no looping (R10) | Partial | The 20-second Fish turn now uses two different clips, and no turn repeats the turn before it. But the same day's clips do come back later in the day (turn 1 and turn 3 share clip A, different slice). | |
+| Old Fish is never luggage — he speaks, acts, gets close-ups (R11) | Yes | Fish speaks in 5 turns, gets a close-up every time, and the 20-second final tally is his. He still does not react during the others' lines. | |
+| Only the speaker's mouth moves (R12) | Partial | The speaker is framed in Luna/Wayne/Fish turns, so the other's mouth is off screen. But the AI clips move both mouths at once and there is no true lip-sync, and in the Narrator full-frame turns both mouths move. | |
 | Old Fish is a cute fish in his bowl (R3) | Yes | | |
 | Luna and Wayne are in the same style (R4) | Yes | | |
 | Works on a phone screen | Yes | | |
