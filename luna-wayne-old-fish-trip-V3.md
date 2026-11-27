@@ -495,3 +495,48 @@ File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, still 125
 seconds, 21 turns. Day clips are now two per day:
 `vlog/v3-day1-moving.mp4` to `vlog/v3-day5-moving.mp4` (clip A) and
 `vlog/v3-day1-moving-B.mp4` to `vlog/v3-day5-moving-B.mp4` (clip B).
+
+---
+
+## R13, R14, R15 — the new cut (Nov 26 evening)
+
+Stella caught three real problems with the synced vlog, and they went
+into Rubric 4.0 as R13–R15:
+
+- **R13. No zooming in on the same scene for different people.** The
+  old cut used zoomed-in crops of the same panel to frame a different
+  speaker each turn. That is gone. Every turn in the new cut shows the
+  full scene, whole, no zooming at all.
+- **R14. The person on screen must be the person speaking.** The old
+  crops showed the wrong person's mouth moving while another voice
+  spoke. In the new cut, Fish's turns use clips made so ONLY Fish's
+  mouth moves — Luna and Wayne keep their mouths closed while he
+  talks. Checked in the Day 3 Fish clip: their mouths stay closed
+  across three frames.
+- **R15. Old Fish must be heard AND seen speaking, and every day must
+  have talking.** The lines were always in the audio — measured in the
+  video, "Bigger than one hundred fish bowls!" (Day 2) and
+  "Temperature approaching fish-stick conditions." (Day 3) are both
+  there at full volume, and every day has talking (Day 1 −16.8 dB,
+  Day 3 −17.8 dB). The problem was on screen: Fish never looked like
+  he was speaking. Now his turns are his own clips, with him talking.
+  Note: the separate day clips on GitHub (v3-day1-moving.mp4 and so
+  on) are silent moving pictures only — the talking lives in the
+  synced vlog.
+
+What is still not perfect, honestly:
+
+- In Luna's, Wayne's, and the Narrator's turns, the full-frame clips
+  still move both mouths, because the video maker moves all mouths at
+  once. The zoomed wrong-mouth is gone, but true one-mouth-only is
+  only achieved in Fish's turns. Making a clip for every single turn,
+  with only that speaker's mouth moving, would need 21 clips — more
+  than the 6 that can be made at once — so Fish's turns were fixed
+  first, because Fish was the one who looked like he said nothing.
+- A still picture cannot prove a mouth moves. Stella should watch
+  Fish's lines and check Luna's and Wayne's mouths stay still.
+
+File: `vlog/luna-wayne-oldfish-trip-v3-synced.mp4`, still 125
+seconds, 21 turns, all full frame. Fish clips:
+`vlog/v3-day1-fish-talks.mp4` to `vlog/v3-day5-fish-talks.mp4`
+(Day 5 has two: `-a` and `-b` for the two halves of the tally).
