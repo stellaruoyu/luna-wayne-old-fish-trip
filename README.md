@@ -453,7 +453,7 @@ Old Fish is now a DRAFT, as Stella said to grade it: a small mechanical fish, si
 
 ## R10, R11, R12 — added Nov 26 evening, and the video changed to match
 
-Stella added three rules to the rubric (Rubric 3.0, R10–R12):
+Stella added three rules to the rubric (Rubric 4.0, R10–R12):
 
 - **R10. Never repeat the same scene multiple times.** No looping one
   short clip to fill a long line. Every turn must use different
